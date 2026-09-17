@@ -1,5 +1,5 @@
-us.nextlgsdp.com
-us.info.lgsmartad.com
-discovery.meethue.com
-us.rdx2.nextlgsdp.com
-www.ueiwsp.com
+||us.nextlgsdp.com^
+||us.info.lgsmartad.com^
+||discovery.meethue.com^
+||us.rdx2.nextlgsdp.com^
+||www.ueiwsp.com^
