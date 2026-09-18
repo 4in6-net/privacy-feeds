@@ -3,3 +3,4 @@
 ||discovery.meethue.com^
 ||us.rdx2.nextlgsdp.com^
 ||www.ueiwsp.com^
+||aic-ngfts.lge.com^
